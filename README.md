@@ -108,4 +108,4 @@ To deploy WallacePOS on dokku:
 
 4. Access /installer/?install from the web browser to install the database schema & templates
 
-5. Login to the admin dashboard at /admin using credentials admin:admin & change the default passwords in Settings -> Staff & Admins!
+5. Login to the admin dashboard at /admin using credentials admin:admin & change the default passwords in Settings -> Staff & Admins!!
